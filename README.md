@@ -1,2 +1,2 @@
 # assets
-All cross-repo shareable assets (logos, images, ...)
+All cross-repo shareable assets (logos, images, ideas, ...)
